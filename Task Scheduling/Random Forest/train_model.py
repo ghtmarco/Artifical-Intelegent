@@ -24,7 +24,7 @@ def create_priority_labels(row):
 def train_and_predict():
     try:
         # Load dataset
-        df = pd.read_csv('task_scheduling_dataset.csv')
+        df = pd.read_csv('Dataset/task_scheduling_dataset.csv')
         
         # Buat label prioritas baru berdasarkan logika yang benar
         df['corrected_priority'] = df.apply(create_priority_labels, axis=1)
@@ -52,8 +52,8 @@ def train_and_predict():
         model.fit(X_train_scaled, y_train)
         
         # Save model and scaler
-        joblib.dump(model, 'random_forest_model.pkl')
-        joblib.dump(scaler, 'scaler.pkl')
+        joblib.dump(model, 'Models/random_forest_model.pkl')
+        joblib.dump(scaler, 'Models/scaler.pkl')
         
         # Predict on full dataset
         X_scaled = scaler.transform(X)
