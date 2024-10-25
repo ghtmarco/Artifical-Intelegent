@@ -1,0 +1,1001 @@
+task_name,duration_hours,deadline_days,priority_level
+Proyek,9.6,11,2
+Presentasi,6.4,26,2
+Belajar,1.9,11,2
+Presentasi,6.4,24,2
+Belajar,1.2,2,2
+Proyek,9.4,2,3
+Proyek,2.7,12,2
+Tugas Kuliah,5.7,12,2
+Meeting,3.6,27,2
+Tugas Kuliah,1.4,28,1
+Belajar,4.4,20,2
+Meeting,1.4,19,2
+Presentasi,5.1,18,2
+Proyek,9.5,14,2
+Tugas Kuliah,4.5,26,2
+Presentasi,3.1,28,2
+Proyek,2.1,29,1
+Belajar,9.2,4,3
+Tugas Kuliah,7.0,2,3
+Tugas Kuliah,6.1,29,2
+Tugas Kuliah,8.0,2,3
+Tugas Kuliah,9.1,14,2
+Proyek,1.4,8,2
+Presentasi,4.5,18,2
+Presentasi,6.3,25,2
+Proyek,6.5,13,2
+Meeting,3.7,13,2
+Meeting,1.1,9,2
+Meeting,2.8,24,1
+Belajar,2.8,8,2
+Belajar,8.1,27,2
+Presentasi,9.3,26,2
+Meeting,9.2,9,2
+Proyek,4.0,16,2
+Presentasi,7.6,8,2
+Belajar,6.1,3,2
+Presentasi,9.7,3,3
+Meeting,7.5,23,2
+Belajar,5.7,15,2
+Tugas Kuliah,1.2,13,2
+Belajar,1.3,7,2
+Meeting,3.8,4,2
+Presentasi,3.2,13,2
+Belajar,2.8,13,2
+Belajar,7.3,28,2
+Tugas Kuliah,6.6,30,2
+Meeting,1.9,28,1
+Proyek,3.0,20,1
+Belajar,3.9,23,2
+Proyek,4.2,30,2
+Meeting,3.4,27,2
+Meeting,8.4,9,2
+Belajar,1.1,8,2
+Belajar,4.8,5,2
+Meeting,2.1,12,2
+Belajar,3.9,24,2
+Meeting,4.6,30,2
+Meeting,3.3,12,2
+Tugas Kuliah,7.4,5,3
+Meeting,10.0,27,2
+Meeting,9.8,28,2
+Presentasi,4.1,1,2
+Belajar,7.1,21,2
+Proyek,5.0,6,2
+Proyek,1.7,24,1
+Belajar,3.2,6,2
+Presentasi,6.7,6,2
+Belajar,8.3,16,2
+Meeting,2.4,27,1
+Presentasi,8.7,28,2
+Belajar,3.0,26,1
+Belajar,8.3,20,2
+Proyek,9.5,8,2
+Tugas Kuliah,8.5,11,2
+Proyek,7.6,18,2
+Tugas Kuliah,3.3,28,2
+Tugas Kuliah,9.8,20,2
+Proyek,3.3,1,2
+Proyek,6.0,27,2
+Meeting,3.5,19,2
+Belajar,8.7,22,2
+Meeting,6.8,11,2
+Meeting,2.5,6,2
+Proyek,6.2,16,2
+Meeting,7.0,29,2
+Tugas Kuliah,2.4,18,2
+Tugas Kuliah,7.2,16,2
+Presentasi,3.0,1,2
+Proyek,3.1,21,2
+Proyek,4.3,8,2
+Belajar,6.9,1,2
+Proyek,5.6,22,2
+Presentasi,5.4,8,2
+Belajar,4.9,21,2
+Meeting,6.2,1,2
+Presentasi,3.1,16,2
+Belajar,6.1,17,2
+Meeting,10.0,30,2
+Presentasi,3.5,6,2
+Belajar,7.7,5,3
+Presentasi,4.9,21,2
+Belajar,9.8,20,2
+Presentasi,4.5,23,2
+Meeting,3.9,18,2
+Meeting,4.6,22,2
+Tugas Kuliah,9.4,14,2
+Tugas Kuliah,6.5,22,2
+Tugas Kuliah,3.3,10,2
+Tugas Kuliah,3.9,8,2
+Meeting,2.2,22,1
+Presentasi,3.7,26,2
+Belajar,3.3,24,2
+Presentasi,1.7,7,2
+Meeting,6.7,20,2
+Meeting,1.6,14,2
+Proyek,9.0,15,2
+Proyek,6.2,23,2
+Belajar,5.2,30,2
+Presentasi,8.6,26,2
+Meeting,1.3,6,2
+Belajar,2.1,1,2
+Presentasi,3.4,12,2
+Presentasi,5.1,6,2
+Presentasi,2.7,30,1
+Belajar,6.7,20,2
+Presentasi,9.7,10,2
+Belajar,8.2,19,2
+Proyek,7.7,26,2
+Presentasi,2.7,30,1
+Meeting,7.2,1,3
+Tugas Kuliah,9.2,15,2
+Tugas Kuliah,3.2,22,2
+Meeting,6.9,21,2
+Meeting,9.6,7,3
+Presentasi,6.5,23,2
+Belajar,3.2,16,2
+Belajar,7.8,25,2
+Presentasi,2.0,5,2
+Meeting,3.8,30,2
+Proyek,2.6,16,2
+Tugas Kuliah,7.9,21,2
+Proyek,2.6,30,1
+Presentasi,4.6,10,2
+Presentasi,9.0,20,2
+Tugas Kuliah,6.6,26,2
+Meeting,5.9,13,2
+Proyek,6.5,16,2
+Tugas Kuliah,1.2,27,1
+Proyek,6.2,18,2
+Belajar,6.8,1,2
+Presentasi,5.9,5,2
+Proyek,4.5,1,2
+Tugas Kuliah,2.9,29,1
+Presentasi,2.9,14,2
+Tugas Kuliah,1.4,18,2
+Belajar,4.0,26,2
+Presentasi,8.6,26,2
+Tugas Kuliah,3.3,7,2
+Proyek,7.2,18,2
+Presentasi,9.4,24,2
+Proyek,4.8,29,2
+Meeting,5.9,5,2
+Meeting,6.1,3,2
+Meeting,7.6,4,3
+Tugas Kuliah,3.3,24,2
+Presentasi,3.1,23,2
+Presentasi,7.7,3,3
+Meeting,4.4,17,2
+Proyek,8.4,22,2
+Presentasi,9.1,17,2
+Proyek,1.1,9,2
+Belajar,1.8,7,2
+Proyek,9.6,20,2
+Belajar,5.4,16,2
+Presentasi,1.8,12,2
+Meeting,6.0,21,2
+Proyek,9.5,16,2
+Meeting,2.0,21,1
+Tugas Kuliah,9.8,14,2
+Tugas Kuliah,5.0,23,2
+Presentasi,4.2,18,2
+Proyek,7.2,26,2
+Proyek,8.8,6,3
+Presentasi,3.0,9,2
+Tugas Kuliah,9.0,2,3
+Presentasi,5.6,6,2
+Belajar,6.2,13,2
+Meeting,8.9,17,2
+Meeting,6.3,4,2
+Proyek,1.8,29,1
+Proyek,6.0,27,2
+Tugas Kuliah,9.2,7,3
+Belajar,3.3,18,2
+Proyek,6.1,20,2
+Proyek,7.9,9,2
+Meeting,7.1,28,2
+Meeting,4.4,17,2
+Meeting,8.8,6,3
+Presentasi,9.7,12,2
+Presentasi,9.7,29,2
+Presentasi,1.4,21,1
+Belajar,9.3,4,3
+Belajar,7.3,25,2
+Tugas Kuliah,2.5,17,2
+Meeting,6.6,22,2
+Belajar,9.1,25,2
+Belajar,3.5,16,2
+Proyek,2.0,21,1
+Tugas Kuliah,2.7,26,1
+Tugas Kuliah,3.1,28,2
+Proyek,4.2,4,2
+Belajar,7.3,17,2
+Meeting,3.8,20,2
+Presentasi,7.2,29,2
+Presentasi,9.2,29,2
+Tugas Kuliah,4.7,5,2
+Meeting,4.8,24,2
+Tugas Kuliah,6.0,5,2
+Meeting,8.0,18,2
+Meeting,4.4,26,2
+Meeting,9.7,27,2
+Meeting,8.5,2,3
+Meeting,4.7,1,2
+Presentasi,1.5,6,2
+Proyek,8.3,5,3
+Belajar,6.0,5,2
+Presentasi,9.5,10,2
+Belajar,3.2,14,2
+Meeting,2.2,19,2
+Presentasi,6.5,30,2
+Meeting,7.0,2,3
+Proyek,3.4,7,2
+Tugas Kuliah,5.5,22,2
+Belajar,5.7,12,2
+Meeting,6.0,5,2
+Belajar,4.6,16,2
+Presentasi,6.6,2,2
+Belajar,2.9,6,2
+Proyek,9.8,18,2
+Tugas Kuliah,6.7,15,2
+Belajar,1.8,2,2
+Proyek,5.9,1,2
+Proyek,3.7,10,2
+Belajar,7.3,29,2
+Proyek,5.1,17,2
+Tugas Kuliah,7.9,20,2
+Presentasi,9.8,21,2
+Tugas Kuliah,4.0,11,2
+Belajar,3.2,19,2
+Meeting,5.1,16,2
+Belajar,2.2,8,2
+Proyek,2.6,24,1
+Meeting,9.1,3,3
+Belajar,7.0,18,2
+Presentasi,2.7,19,2
+Presentasi,2.5,28,1
+Tugas Kuliah,2.6,21,1
+Meeting,5.8,12,2
+Tugas Kuliah,9.0,17,2
+Tugas Kuliah,7.2,9,2
+Tugas Kuliah,8.2,25,2
+Belajar,9.3,29,2
+Meeting,3.5,1,2
+Meeting,6.4,20,2
+Tugas Kuliah,7.8,14,2
+Tugas Kuliah,7.7,14,2
+Belajar,3.3,7,2
+Belajar,9.1,14,2
+Belajar,5.8,13,2
+Tugas Kuliah,5.0,3,2
+Belajar,3.2,25,2
+Presentasi,2.6,7,2
+Meeting,8.6,22,2
+Tugas Kuliah,5.8,25,2
+Meeting,4.1,25,2
+Proyek,4.2,9,2
+Presentasi,5.3,4,2
+Tugas Kuliah,6.0,8,2
+Meeting,6.1,10,2
+Meeting,4.0,20,2
+Tugas Kuliah,6.5,27,2
+Belajar,9.9,5,3
+Meeting,3.1,22,2
+Presentasi,2.4,23,1
+Proyek,8.7,30,2
+Meeting,1.7,19,2
+Presentasi,9.8,6,3
+Tugas Kuliah,6.2,11,2
+Proyek,1.0,22,1
+Meeting,5.4,6,2
+Belajar,8.4,2,3
+Belajar,6.1,19,2
+Presentasi,7.9,6,3
+Tugas Kuliah,3.9,19,2
+Proyek,5.6,17,2
+Proyek,2.0,26,1
+Presentasi,5.6,4,2
+Presentasi,5.8,1,2
+Tugas Kuliah,5.1,5,2
+Tugas Kuliah,9.9,13,2
+Tugas Kuliah,1.8,5,2
+Meeting,7.8,11,2
+Belajar,4.1,17,2
+Presentasi,8.5,12,2
+Tugas Kuliah,2.1,24,1
+Belajar,9.4,12,2
+Belajar,1.6,8,2
+Proyek,8.6,8,2
+Belajar,8.2,14,2
+Proyek,2.5,21,1
+Presentasi,8.3,27,2
+Tugas Kuliah,9.2,25,2
+Presentasi,6.3,18,2
+Belajar,6.6,1,2
+Meeting,3.1,1,2
+Tugas Kuliah,5.9,8,2
+Belajar,5.9,6,2
+Belajar,6.6,8,2
+Tugas Kuliah,2.3,15,2
+Presentasi,5.5,30,2
+Belajar,8.1,6,3
+Meeting,3.8,5,2
+Belajar,7.7,30,2
+Proyek,6.1,10,2
+Presentasi,8.9,1,3
+Presentasi,2.0,4,2
+Presentasi,2.1,24,1
+Presentasi,5.9,29,2
+Proyek,7.5,2,3
+Belajar,6.8,19,2
+Proyek,5.9,11,2
+Belajar,4.1,11,2
+Tugas Kuliah,4.1,6,2
+Tugas Kuliah,9.5,12,2
+Tugas Kuliah,6.3,30,2
+Tugas Kuliah,6.5,15,2
+Proyek,6.3,12,2
+Proyek,9.3,5,3
+Presentasi,7.4,10,2
+Meeting,6.2,26,2
+Meeting,4.8,29,2
+Meeting,9.3,23,2
+Meeting,2.0,21,1
+Tugas Kuliah,8.6,22,2
+Meeting,4.0,22,2
+Belajar,6.3,21,2
+Meeting,7.7,10,2
+Proyek,8.1,26,2
+Meeting,2.0,20,1
+Meeting,8.8,6,3
+Tugas Kuliah,5.2,27,2
+Tugas Kuliah,9.3,11,2
+Belajar,5.1,19,2
+Meeting,5.5,6,2
+Presentasi,9.2,17,2
+Presentasi,6.2,22,2
+Tugas Kuliah,1.1,21,1
+Meeting,2.6,20,1
+Meeting,2.3,22,1
+Proyek,5.8,8,2
+Meeting,3.7,13,2
+Belajar,2.9,19,2
+Presentasi,6.6,29,2
+Belajar,1.6,14,2
+Belajar,5.1,2,2
+Proyek,5.3,30,2
+Belajar,2.4,1,2
+Presentasi,1.7,3,2
+Tugas Kuliah,3.4,14,2
+Tugas Kuliah,4.7,23,2
+Proyek,8.6,7,3
+Presentasi,4.7,25,2
+Belajar,3.1,27,2
+Presentasi,6.4,25,2
+Presentasi,2.6,1,2
+Proyek,3.1,2,2
+Belajar,3.2,14,2
+Belajar,9.7,20,2
+Presentasi,2.3,14,2
+Tugas Kuliah,1.1,7,2
+Meeting,2.9,19,2
+Presentasi,8.9,29,2
+Proyek,7.3,1,3
+Presentasi,4.1,10,2
+Tugas Kuliah,4.3,23,2
+Proyek,8.5,5,3
+Meeting,4.9,12,2
+Belajar,9.5,22,2
+Proyek,2.3,10,2
+Belajar,9.1,17,2
+Tugas Kuliah,1.2,14,2
+Meeting,5.9,13,2
+Meeting,3.3,22,2
+Belajar,4.8,26,2
+Tugas Kuliah,9.1,2,3
+Presentasi,1.2,18,2
+Presentasi,8.3,9,2
+Tugas Kuliah,6.0,25,2
+Tugas Kuliah,7.5,21,2
+Tugas Kuliah,2.3,27,1
+Meeting,3.4,27,2
+Tugas Kuliah,6.4,25,2
+Presentasi,2.6,13,2
+Meeting,4.8,28,2
+Tugas Kuliah,4.8,2,2
+Proyek,9.6,1,3
+Belajar,1.8,19,2
+Tugas Kuliah,1.6,11,2
+Belajar,4.2,17,2
+Belajar,3.7,3,2
+Tugas Kuliah,4.6,24,2
+Presentasi,5.4,26,2
+Proyek,5.9,19,2
+Belajar,8.6,17,2
+Belajar,6.4,2,2
+Meeting,7.9,21,2
+Meeting,1.7,17,2
+Meeting,5.5,11,2
+Tugas Kuliah,5.1,3,2
+Belajar,1.7,12,2
+Proyek,9.7,6,3
+Tugas Kuliah,1.9,5,2
+Proyek,8.3,17,2
+Presentasi,8.1,25,2
+Meeting,2.7,30,1
+Belajar,7.6,21,2
+Meeting,6.9,22,2
+Meeting,9.1,12,2
+Belajar,9.9,13,2
+Tugas Kuliah,1.4,10,2
+Meeting,2.6,21,1
+Tugas Kuliah,3.8,15,2
+Presentasi,7.6,19,2
+Tugas Kuliah,4.8,29,2
+Tugas Kuliah,7.7,20,2
+Belajar,3.9,10,2
+Meeting,6.9,24,2
+Belajar,6.0,13,2
+Tugas Kuliah,9.0,11,2
+Tugas Kuliah,7.5,12,2
+Meeting,5.8,22,2
+Meeting,7.6,1,3
+Presentasi,6.5,30,2
+Tugas Kuliah,1.2,10,2
+Tugas Kuliah,1.2,23,1
+Presentasi,5.8,3,2
+Belajar,10.0,20,2
+Presentasi,7.9,29,2
+Presentasi,5.3,16,2
+Proyek,9.9,10,2
+Meeting,4.0,20,2
+Presentasi,7.6,17,2
+Belajar,5.2,24,2
+Tugas Kuliah,3.7,30,2
+Presentasi,1.4,1,2
+Presentasi,9.9,9,2
+Meeting,4.5,4,2
+Proyek,9.6,5,3
+Presentasi,3.3,28,2
+Belajar,9.1,2,3
+Meeting,7.7,4,3
+Belajar,4.6,29,2
+Presentasi,8.5,14,2
+Tugas Kuliah,1.4,25,1
+Tugas Kuliah,1.3,26,1
+Belajar,8.4,5,3
+Presentasi,6.7,23,2
+Meeting,5.7,20,2
+Tugas Kuliah,5.7,27,2
+Tugas Kuliah,5.6,18,2
+Meeting,2.4,3,2
+Presentasi,3.0,15,2
+Meeting,6.3,14,2
+Presentasi,1.8,9,2
+Belajar,3.5,29,2
+Meeting,1.4,2,2
+Proyek,1.3,15,2
+Meeting,6.0,27,2
+Tugas Kuliah,4.7,15,2
+Belajar,7.5,26,2
+Tugas Kuliah,1.7,28,1
+Presentasi,9.1,13,2
+Meeting,1.6,13,2
+Presentasi,9.2,3,3
+Tugas Kuliah,5.9,13,2
+Presentasi,7.6,24,2
+Belajar,8.8,28,2
+Meeting,2.4,16,2
+Meeting,4.0,13,2
+Meeting,9.4,4,3
+Belajar,7.8,7,3
+Presentasi,8.9,26,2
+Meeting,1.3,23,1
+Tugas Kuliah,2.2,11,2
+Presentasi,7.7,18,2
+Proyek,6.0,13,2
+Presentasi,3.3,2,2
+Presentasi,6.6,17,2
+Meeting,6.7,2,2
+Proyek,1.1,13,2
+Belajar,2.2,19,2
+Tugas Kuliah,4.9,2,2
+Proyek,6.7,30,2
+Presentasi,1.9,4,2
+Proyek,7.2,18,2
+Proyek,3.7,17,2
+Proyek,1.6,10,2
+Meeting,1.5,24,1
+Belajar,8.7,14,2
+Presentasi,5.0,27,2
+Belajar,6.3,12,2
+Presentasi,1.2,6,2
+Belajar,3.3,23,2
+Tugas Kuliah,2.4,2,2
+Presentasi,9.5,3,3
+Presentasi,8.7,15,2
+Presentasi,7.2,20,2
+Tugas Kuliah,8.0,20,2
+Belajar,3.5,17,2
+Proyek,1.3,29,1
+Presentasi,9.2,5,3
+Belajar,9.7,19,2
+Meeting,5.0,27,2
+Meeting,3.9,6,2
+Tugas Kuliah,2.9,17,2
+Meeting,7.4,18,2
+Proyek,5.3,8,2
+Proyek,2.7,17,2
+Presentasi,8.0,15,2
+Belajar,8.6,20,2
+Belajar,8.2,12,2
+Presentasi,9.2,26,2
+Belajar,2.7,15,2
+Meeting,1.0,7,2
+Meeting,6.5,20,2
+Proyek,6.0,16,2
+Meeting,2.4,22,1
+Presentasi,3.4,24,2
+Belajar,9.9,17,2
+Presentasi,1.7,18,2
+Belajar,7.3,1,3
+Proyek,8.0,8,2
+Belajar,5.3,24,2
+Meeting,3.2,25,2
+Proyek,7.3,10,2
+Tugas Kuliah,3.9,2,2
+Meeting,1.8,13,2
+Meeting,8.4,26,2
+Tugas Kuliah,9.8,26,2
+Tugas Kuliah,8.2,2,3
+Tugas Kuliah,2.5,17,2
+Belajar,2.1,27,1
+Meeting,9.4,7,3
+Meeting,7.4,8,2
+Tugas Kuliah,6.6,20,2
+Belajar,5.4,11,2
+Proyek,6.0,6,2
+Tugas Kuliah,8.1,3,3
+Meeting,2.5,14,2
+Belajar,7.5,12,2
+Proyek,2.4,13,2
+Belajar,3.0,23,1
+Proyek,7.7,29,2
+Presentasi,6.9,19,2
+Proyek,6.0,18,2
+Belajar,3.1,24,2
+Meeting,5.4,28,2
+Tugas Kuliah,4.6,29,2
+Presentasi,4.8,15,2
+Meeting,8.6,17,2
+Presentasi,7.5,29,2
+Proyek,6.7,28,2
+Proyek,7.9,28,2
+Tugas Kuliah,8.8,9,2
+Proyek,1.3,2,2
+Proyek,8.9,2,3
+Proyek,4.8,10,2
+Belajar,6.3,22,2
+Presentasi,2.9,13,2
+Tugas Kuliah,6.7,15,2
+Meeting,2.2,8,2
+Proyek,9.2,23,2
+Tugas Kuliah,3.1,14,2
+Tugas Kuliah,2.6,5,2
+Presentasi,4.9,22,2
+Proyek,4.6,14,2
+Meeting,7.0,7,3
+Meeting,4.5,25,2
+Proyek,3.3,5,2
+Presentasi,3.9,8,2
+Proyek,2.2,13,2
+Belajar,9.0,22,2
+Tugas Kuliah,5.0,12,2
+Meeting,4.9,20,2
+Belajar,9.5,25,2
+Proyek,4.4,11,2
+Presentasi,4.2,12,2
+Presentasi,8.0,24,2
+Proyek,5.0,15,2
+Proyek,5.9,20,2
+Tugas Kuliah,9.9,9,2
+Presentasi,9.4,29,2
+Meeting,2.1,6,2
+Presentasi,9.4,5,3
+Meeting,5.6,14,2
+Proyek,2.3,21,1
+Tugas Kuliah,9.7,11,2
+Tugas Kuliah,3.9,29,2
+Meeting,6.2,24,2
+Belajar,5.4,12,2
+Proyek,2.1,30,1
+Presentasi,2.3,18,2
+Tugas Kuliah,7.6,8,2
+Tugas Kuliah,2.7,23,1
+Presentasi,5.0,5,2
+Tugas Kuliah,7.0,23,2
+Tugas Kuliah,4.4,30,2
+Tugas Kuliah,3.2,26,2
+Meeting,1.3,8,2
+Meeting,7.2,1,3
+Meeting,2.9,16,2
+Presentasi,7.0,9,2
+Tugas Kuliah,4.1,2,2
+Tugas Kuliah,6.4,9,2
+Meeting,4.7,16,2
+Presentasi,8.0,13,2
+Meeting,2.0,2,2
+Presentasi,7.9,4,3
+Belajar,8.3,18,2
+Presentasi,8.2,19,2
+Presentasi,8.4,24,2
+Meeting,4.0,1,2
+Proyek,6.5,15,2
+Presentasi,4.4,29,2
+Meeting,6.4,17,2
+Belajar,3.0,26,1
+Belajar,6.4,14,2
+Tugas Kuliah,7.8,9,2
+Belajar,5.9,8,2
+Tugas Kuliah,5.3,21,2
+Presentasi,4.1,12,2
+Presentasi,4.6,5,2
+Proyek,5.3,11,2
+Tugas Kuliah,7.4,11,2
+Presentasi,8.4,11,2
+Presentasi,9.1,25,2
+Proyek,9.3,15,2
+Proyek,9.4,22,2
+Belajar,1.9,29,1
+Proyek,3.3,20,2
+Belajar,9.4,28,2
+Belajar,6.2,10,2
+Proyek,7.5,2,3
+Meeting,9.8,26,2
+Meeting,5.7,7,2
+Proyek,2.6,13,2
+Meeting,6.1,10,2
+Proyek,4.8,22,2
+Meeting,4.4,13,2
+Tugas Kuliah,2.0,13,2
+Presentasi,9.0,9,2
+Tugas Kuliah,2.9,10,2
+Tugas Kuliah,4.2,10,2
+Meeting,3.1,5,2
+Proyek,3.5,19,2
+Proyek,4.8,10,2
+Meeting,1.9,4,2
+Tugas Kuliah,5.1,18,2
+Presentasi,2.5,3,2
+Proyek,8.8,23,2
+Presentasi,1.9,16,2
+Presentasi,6.8,28,2
+Belajar,3.1,14,2
+Presentasi,6.4,30,2
+Meeting,9.9,3,3
+Presentasi,7.1,10,2
+Presentasi,7.5,17,2
+Belajar,9.9,28,2
+Belajar,6.4,6,2
+Tugas Kuliah,9.1,13,2
+Proyek,1.8,1,2
+Proyek,2.7,8,2
+Meeting,3.0,9,2
+Proyek,5.0,28,2
+Tugas Kuliah,7.0,12,2
+Belajar,6.8,8,2
+Tugas Kuliah,7.1,12,2
+Presentasi,5.1,22,2
+Tugas Kuliah,9.9,2,3
+Meeting,10.0,23,2
+Proyek,1.5,12,2
+Tugas Kuliah,9.6,13,2
+Presentasi,7.2,25,2
+Tugas Kuliah,1.9,25,1
+Proyek,4.1,12,2
+Proyek,5.3,30,2
+Presentasi,2.1,19,2
+Presentasi,7.6,24,2
+Proyek,3.2,30,2
+Presentasi,1.8,22,1
+Tugas Kuliah,8.1,1,3
+Presentasi,8.4,6,3
+Proyek,7.4,14,2
+Proyek,3.7,18,2
+Presentasi,4.2,21,2
+Tugas Kuliah,9.4,9,2
+Meeting,3.7,20,2
+Tugas Kuliah,6.4,23,2
+Belajar,8.1,15,2
+Proyek,8.7,10,2
+Proyek,9.4,10,2
+Tugas Kuliah,6.7,30,2
+Tugas Kuliah,8.8,6,3
+Belajar,8.1,20,2
+Meeting,3.9,3,2
+Tugas Kuliah,2.4,3,2
+Tugas Kuliah,9.6,18,2
+Tugas Kuliah,8.4,25,2
+Presentasi,8.8,4,3
+Meeting,6.5,22,2
+Presentasi,3.9,3,2
+Meeting,8.4,13,2
+Presentasi,2.1,21,1
+Tugas Kuliah,5.6,15,2
+Proyek,1.7,12,2
+Proyek,3.8,14,2
+Proyek,5.0,28,2
+Presentasi,1.2,2,2
+Proyek,4.3,19,2
+Presentasi,8.0,10,2
+Meeting,1.5,11,2
+Tugas Kuliah,1.5,24,1
+Meeting,4.9,9,2
+Belajar,1.7,28,1
+Belajar,2.6,16,2
+Proyek,6.6,4,2
+Meeting,3.1,28,2
+Proyek,2.6,4,2
+Proyek,8.6,18,2
+Presentasi,9.0,30,2
+Presentasi,4.2,27,2
+Proyek,5.3,7,2
+Presentasi,4.5,5,2
+Tugas Kuliah,2.2,21,1
+Presentasi,7.8,26,2
+Presentasi,2.9,21,1
+Tugas Kuliah,3.2,21,2
+Presentasi,8.2,13,2
+Proyek,4.3,17,2
+Proyek,6.8,21,2
+Proyek,3.4,21,2
+Tugas Kuliah,2.1,2,2
+Proyek,3.2,18,2
+Belajar,4.4,20,2
+Presentasi,5.1,21,2
+Tugas Kuliah,9.0,9,2
+Meeting,6.9,9,2
+Meeting,8.3,16,2
+Presentasi,3.5,18,2
+Tugas Kuliah,3.3,8,2
+Presentasi,8.4,23,2
+Tugas Kuliah,4.5,22,2
+Meeting,6.5,28,2
+Presentasi,2.4,12,2
+Meeting,5.0,8,2
+Presentasi,1.3,23,1
+Belajar,6.9,19,2
+Belajar,1.1,5,2
+Proyek,7.6,26,2
+Proyek,4.1,15,2
+Belajar,7.0,28,2
+Belajar,2.6,5,2
+Presentasi,6.9,8,2
+Tugas Kuliah,1.2,16,2
+Proyek,9.1,8,2
+Meeting,9.8,15,2
+Tugas Kuliah,1.1,4,2
+Proyek,8.0,9,2
+Meeting,5.8,30,2
+Tugas Kuliah,3.9,4,2
+Proyek,5.3,2,2
+Presentasi,6.2,16,2
+Proyek,2.4,10,2
+Meeting,9.4,23,2
+Meeting,4.3,27,2
+Proyek,4.5,18,2
+Proyek,3.2,21,2
+Proyek,2.8,14,2
+Meeting,6.8,3,2
+Tugas Kuliah,8.3,23,2
+Meeting,3.3,15,2
+Tugas Kuliah,6.7,30,2
+Presentasi,9.8,14,2
+Proyek,1.5,22,1
+Belajar,3.4,28,2
+Presentasi,7.6,2,3
+Presentasi,7.2,20,2
+Belajar,9.7,15,2
+Belajar,2.4,12,2
+Presentasi,4.7,5,2
+Presentasi,7.7,3,3
+Belajar,2.4,30,1
+Proyek,6.7,5,2
+Tugas Kuliah,6.0,8,2
+Meeting,7.7,3,3
+Meeting,3.5,3,2
+Tugas Kuliah,6.9,25,2
+Tugas Kuliah,7.7,14,2
+Belajar,2.7,9,2
+Presentasi,5.8,4,2
+Tugas Kuliah,7.8,22,2
+Proyek,7.7,14,2
+Meeting,9.6,25,2
+Proyek,3.9,19,2
+Belajar,10.0,4,3
+Presentasi,6.8,10,2
+Belajar,2.2,6,2
+Presentasi,1.0,7,2
+Presentasi,1.3,14,2
+Proyek,2.6,13,2
+Proyek,4.6,7,2
+Proyek,5.6,3,2
+Presentasi,6.2,23,2
+Proyek,6.0,30,2
+Tugas Kuliah,6.4,19,2
+Proyek,8.4,17,2
+Belajar,1.5,13,2
+Proyek,8.1,6,3
+Presentasi,8.1,19,2
+Presentasi,2.3,23,1
+Meeting,4.9,18,2
+Proyek,1.6,28,1
+Belajar,7.9,25,2
+Proyek,3.7,1,2
+Meeting,6.7,20,2
+Belajar,7.2,15,2
+Proyek,4.5,9,2
+Tugas Kuliah,6.3,25,2
+Proyek,4.3,18,2
+Belajar,1.2,17,2
+Presentasi,7.3,27,2
+Presentasi,8.0,19,2
+Tugas Kuliah,8.7,26,2
+Belajar,4.4,5,2
+Proyek,8.2,10,2
+Presentasi,7.4,26,2
+Proyek,1.4,7,2
+Tugas Kuliah,9.2,24,2
+Meeting,1.1,9,2
+Proyek,2.2,25,1
+Proyek,6.9,4,2
+Presentasi,1.6,12,2
+Tugas Kuliah,3.5,28,2
+Belajar,3.5,14,2
+Tugas Kuliah,3.4,22,2
+Tugas Kuliah,8.6,6,3
+Proyek,2.4,4,2
+Belajar,1.6,26,1
+Belajar,2.3,4,2
+Tugas Kuliah,4.7,7,2
+Tugas Kuliah,7.6,11,2
+Proyek,2.2,16,2
+Presentasi,1.5,12,2
+Meeting,5.5,21,2
+Tugas Kuliah,2.3,23,1
+Tugas Kuliah,2.7,17,2
+Belajar,3.8,21,2
+Proyek,4.1,9,2
+Meeting,2.4,4,2
+Tugas Kuliah,1.8,22,1
+Meeting,5.7,29,2
+Presentasi,8.7,26,2
+Belajar,1.6,22,1
+Meeting,5.9,6,2
+Tugas Kuliah,5.4,21,2
+Presentasi,9.5,16,2
+Meeting,7.0,2,3
+Belajar,6.9,22,2
+Proyek,1.6,8,2
+Proyek,4.2,3,2
+Belajar,8.1,7,3
+Presentasi,2.5,4,2
+Proyek,5.7,24,2
+Presentasi,6.9,20,2
+Proyek,3.3,29,2
+Meeting,6.0,28,2
+Tugas Kuliah,6.0,2,2
+Meeting,1.8,3,2
+Proyek,5.8,20,2
+Belajar,1.9,20,1
+Meeting,4.6,11,2
+Belajar,5.0,11,2
+Proyek,5.7,24,2
+Proyek,8.1,4,3
+Presentasi,6.7,23,2
+Meeting,4.6,16,2
+Tugas Kuliah,2.4,20,1
+Proyek,2.5,16,2
+Belajar,4.3,27,2
+Tugas Kuliah,2.5,6,2
+Meeting,6.4,23,2
+Presentasi,7.6,16,2
+Belajar,3.8,30,2
+Belajar,8.9,12,2
+Belajar,5.5,16,2
+Meeting,4.8,23,2
+Presentasi,7.0,13,2
+Tugas Kuliah,2.5,6,2
+Tugas Kuliah,4.8,23,2
+Belajar,7.2,3,3
+Meeting,1.3,20,1
+Tugas Kuliah,2.9,30,1
+Presentasi,9.8,28,2
+Presentasi,3.7,6,2
+Tugas Kuliah,2.0,28,1
+Proyek,9.9,2,3
+Proyek,5.1,21,2
+Tugas Kuliah,8.4,12,2
+Proyek,5.7,16,2
+Presentasi,2.0,26,1
+Meeting,3.2,20,2
+Tugas Kuliah,4.1,15,2
+Tugas Kuliah,7.7,25,2
+Meeting,8.6,11,2
+Belajar,6.7,20,2
+Presentasi,7.1,2,3
+Belajar,7.2,28,2
+Meeting,6.9,1,2
+Belajar,7.2,25,2
+Presentasi,1.3,21,1
+Presentasi,6.9,14,2
+Proyek,8.8,7,3
+Meeting,8.1,13,2
+Tugas Kuliah,6.9,6,2
+Belajar,1.0,27,1
+Belajar,4.5,14,2
+Proyek,4.4,30,2
+Belajar,4.7,14,2
+Belajar,4.8,25,2
+Tugas Kuliah,9.7,22,2
+Meeting,3.6,19,2
+Belajar,7.8,9,2
+Proyek,1.2,7,2
+Meeting,3.7,23,2
+Meeting,3.5,15,2
+Proyek,2.0,6,2
+Presentasi,5.9,8,2
+Meeting,3.2,1,2
+Proyek,3.7,11,2
+Presentasi,3.7,27,2
+Meeting,1.4,4,2
+Proyek,8.7,9,2
+Presentasi,6.3,9,2
+Presentasi,8.5,16,2
+Proyek,6.2,14,2
+Tugas Kuliah,6.2,21,2
+Presentasi,3.3,5,2
+Belajar,5.4,21,2
+Presentasi,5.7,9,2
+Proyek,8.8,2,3
+Meeting,1.2,23,1
+Proyek,9.2,14,2
+Meeting,4.1,20,2
+Presentasi,2.5,21,1
+Belajar,5.0,25,2
+Presentasi,6.8,23,2
+Proyek,1.9,22,1
+Proyek,5.4,22,2
+Proyek,9.6,2,3
+Belajar,7.7,1,3
+Meeting,1.0,29,1
+Proyek,6.4,27,2
+Belajar,3.5,1,2
+Meeting,4.0,17,2
+Belajar,2.8,3,2
+Presentasi,5.3,17,2
+Presentasi,5.8,17,2
+Meeting,3.0,11,2
+Proyek,2.0,26,1
+Presentasi,4.9,30,2
+Tugas Kuliah,3.6,30,2
+Meeting,4.6,5,2
+Meeting,6.6,24,2
+Presentasi,4.1,7,2
+Meeting,1.3,11,2
+Belajar,5.1,14,2
+Presentasi,4.6,12,2
+Belajar,4.7,8,2
+Presentasi,7.4,12,2
+Presentasi,3.8,13,2
+Tugas Kuliah,9.6,26,2
+Presentasi,1.0,27,1
+Presentasi,8.5,17,2
+Proyek,7.2,2,3
+Proyek,4.5,4,2
+Tugas Kuliah,1.8,15,2
+Proyek,5.9,17,2
+Meeting,4.6,19,2
+Meeting,9.5,29,2
+Meeting,6.8,19,2
